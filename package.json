@@ -1,0 +1,19 @@
+{
+  "name": "11-hours",
+  "version": "1.0.0",
+  "description": "training js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reihen1357/11-hours-js.git"
+  },
+  "author": "Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reihen1357/11-hours-js/issues"
+  },
+  "homepage": "https://github.com/Reihen1357/11-hours-js#readme"
+}
